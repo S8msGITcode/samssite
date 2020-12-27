@@ -11,8 +11,10 @@ You can see some interesting pictures and links I found on the internet here, I 
 
 [Password generator](https://github.com/S8msGITcode/Simple-password-generator)
 
+
+
 ### Support or Contact
 
-Having trouble with my website? Mail me at samPPLstudent@protonmail.com
+Having trouble with my website or just want to contact me? Mail me at samPPLstudent@protonmail.com 
 
 Cheers!
