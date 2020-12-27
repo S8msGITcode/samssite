@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my personal website!
 
-You can use the [editor on GitHub](https://github.com/S8msGITcode/samssite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can see some interesting pictures and links I found on the internet here, I hope you'll enjoy them!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
