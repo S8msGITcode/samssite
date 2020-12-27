@@ -1,2 +1,1 @@
-# samssite
-My website
+# Sams site
