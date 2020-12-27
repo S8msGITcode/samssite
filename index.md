@@ -5,7 +5,7 @@ You can see some interesting pictures and links I found on the internet here, I 
 
 # My repositories
 
-**I don't have a lot of repositories, but here is a list of my top 2 repositories and forks
+**I don't have a lot of repositories, but here is a list of my top 2 repositories and forks**
 
 [JM squad website](https://github.com/S8msGITcode/JM-squad/)
 
