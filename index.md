@@ -1,6 +1,6 @@
 ## Sam Mas's website
 
-You can see some interesting pictures and links I found on the internet here, I hope you'll enjoy them!
+You can see some [interesting pictures and links](https://s8msgitcode.github.io/samssite/pics-and-links/) I found on the internet here, I hope you'll enjoy them!
 
 
 # My repositories
