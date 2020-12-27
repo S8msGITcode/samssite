@@ -1,4 +1,4 @@
-## Welcome to my personal website!
+## Sam Mas's website
 
 You can see some interesting pictures and links I found on the internet here, I hope you'll enjoy them!
 
