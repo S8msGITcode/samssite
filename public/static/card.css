@@ -1,0 +1,114 @@
+* {
+	box-sizing: border-box;
+}
+
+.card {
+	background: var(--fav);
+}
+
+.cardTwo {
+	background-color: #078ddb;
+}
+
+.cardThree {
+	background-color: #0a7bbd;
+}
+
+.cardFour {
+	background-color: #1164b1;
+}
+
+.cardFive {
+	background-color: #0f589c;
+}
+
+.pics{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.card, .cardTwo, .cardThree, .cardFour, .cardFive {
+	width: 80%;
+	height: 60%;
+    max-width: 400px;
+	padding: 10px;
+	position: relative;
+	margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+	border-radius: 2px;
+	box-shadow: 0px 2px 10px 0px var(--shadow);
+}
+
+.card > h2, .cardTwo > h2, .cardThree > h2, .cardFour > h2, .cardFive > h2 {
+	color: #fff;
+    margin-bottom: 10px;
+    text-shadow: 1px 1px 1px #dddddd,
+    1px 4px 6px rgba(16,16,16,0.4);
+}
+
+.contentImg {
+	width: 100%;
+}
+
+.card > p, .cardTwo > p, .cardThree > p, .cardFour > p {
+	width: 80%;
+	color: #fff;
+    padding: 10px 0;
+}
+
+li {
+	list-style-type: none;
+	padding: 0;
+	color: #FFFF;
+	width: 80%;
+}
+
+ul {
+	margin: 0 auto;
+}
+
+.cardFive > ul > .comment {
+	list-style-type: none;
+	color: #FFFF;
+	text-align: left;
+	display: inline-block;
+	margin: 0;
+}
+
+.cardFive > ul > .name {
+	text-align: right !important;
+	color: #fff;
+	margin-bottom: 7px;
+}
+
+.cardFive > ul > li > span {
+	text-align: right !important;
+}
+
+a {
+	color: rgb(130, 194, 187);
+	text-decoration: none;
+	transition: 200ms;
+}
+
+a:hover {
+	color: rgb(11, 245, 245);
+	text-decoration: underline;
+	transition: 200ms;
+}
+
+figcaption {
+	font-size: 80%;
+    padding-top: 10px;
+		color: rgb(0, 0, 0);
+}
+
+.cardTwo > img {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	box-shadow: 1px 4px 6px 0px rgba(0, 0, 0, 0.692);
+}
